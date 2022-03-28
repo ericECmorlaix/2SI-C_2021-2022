@@ -153,12 +153,12 @@ BBC micro:bit
 
 ### Activités :
 
-- Evoluer de la programmation Scratch vers Python grace à l'application [PYRATES](https://py-rates.fr/) : ==**-> me transmettre par [mail] votre code personnel ainsi que le temps et le nombre d'essais qu'il vous faut pour passer chaque niveau...**== ;
+- Evoluer de la programmation Scratch vers Python grace à l'application [PYRATES](https://py-rates.fr/){target=_blank} : ==**-> me transmettre par [mail] votre code personnel ainsi que le temps et le nombre d'essais qu'il vous faut pour passer chaque niveau...**== ;
 
 
 ### Prolongements pour le 26/04 :
 
-- Finir tous les niveaux de [PYRATES](https://py-rates.fr/){target="_blank"} ;
+- Finir tous les niveaux de [PYRATES](https://py-rates.fr/){target=_blank} ;
 
 
 

@@ -2,7 +2,7 @@
 
 ## Avertissement :
 
-[![PJ](images/undraw_Team_re_0bfe.svg "# TEAM-2SI_C-2021/2022"){: align=left width=10%}](){target=_blank}[![PJ](images/undraw_Mailbox_re_dvds.svg "team-2si-c-20212022@ecmorlaix.fr"){: align=right width=10%}](mailto:team-2si-c-20212022@ecmorlaix.fr){target=_blank}Ce site s'adresse au groupe C des élèves de seconde du lycée Notre Dame du Mur qui suivent l'enseignement de découverte des Sciences de l'Ingénieur.
+[![PJ](images/undraw_Team_re_0bfe.svg "# TEAM-2SI_C-2021/2022"){: align=left width=10%}](https://teams.microsoft.com/l/team/19%3aW9ZfF3Poy6xVHRFWt4CReSk2Hod8yLdd5o07Z5r_V201%40thread.tacv2/conversations?groupId=554fe4ba-5c0c-4c65-b139-088b5f2274bf&tenantId=3a7994d7-1ce5-426f-a6e3-eee0616e2a6c){target=_blank}[![PJ](images/undraw_Mailbox_re_dvds.svg "TEAM-2SI_C-20212022@ecmorlaix.fr"){: align=right width=10%}](mailto:TEAM-2SI_C-20212022@ecmorlaix.fr){target=_blank}Ce site s'adresse au groupe C des élèves de seconde du lycée Notre Dame du Mur qui suivent l'enseignement de découverte des Sciences de l'Ingénieur.
 
 
 ## Contenu de formation :
@@ -120,7 +120,7 @@ BBC micro:bit
 
 #### Présentation de l'environnement de travail :
 
-- Groupe [# TEAM-2SI_C-2021/2022](){target="_blank"} , email [team-2si_c-20212022@ecmorlaix.fr](mailto:team-2si_c-20212022@ecmorlaix.fr), sharepoint [TEAM-2SI_C-20212022](){target="_blank"} ;
+- Groupe [# TEAM-2SI_C-2021/2022](https://teams.microsoft.com/l/team/19%3aW9ZfF3Poy6xVHRFWt4CReSk2Hod8yLdd5o07Z5r_V201%40thread.tacv2/conversations?groupId=554fe4ba-5c0c-4c65-b139-088b5f2274bf&tenantId=3a7994d7-1ce5-426f-a6e3-eee0616e2a6c){target="_blank"} , email [TEAM-2SI_C-20212022@ecmorlaix.fr](mailto:TEAM-2SI_C-20212022@ecmorlaix.fr), sharepoint [TEAM-2SI_C-20212022](https://ecmorlaix.sharepoint.com/sites/TEAM-2SI_C-20212022){target="_blank"} ;
 - Dépot [GitHub](https://github.com/ericECmorlaix/2SI-C_2021-2022){target="_blank"} ; 
 
 #### Prise en main des [notebook jupyter](./decouverte-notebook) pour communiquer un compte rendu :

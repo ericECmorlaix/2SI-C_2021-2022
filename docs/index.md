@@ -113,7 +113,7 @@ BBC micro:bit
 
 - Télécharger puis compléter progressivement le notebook [Quick_Pi-Objets_connectes-Parcours_1.ipynb](./Quick_Pi-Objets_connectes-Parcours_1)​​... 
 
-
+-->
 ## Le 29/03 :
 
 ### Activités :
@@ -139,14 +139,15 @@ BBC micro:bit
 - **ouvrir** votre notebook avec `Carnets` pour l'augmenter...
 
 
-### Prolongements, à faire pour le 26/03 :
+### Prolongements, à faire pour le 03/05 :
 
 ![homework](images/undraw_Working_re_ddwy.svg){: .center width=40%}
 
 - **Découvrir** plus avant les fonctionnalités de base des [notebook jupyter](./decouverte-notebook) pour **améliorer** votre fiche d'informations et la **retransmettre** par mail ;
-- **Lire** la page de présentation de la [Spécialité Siences de l'Ingénieur](./presentation_SI)...
+- **Finir** tous les niveaux de [PYRATES](https://py-rates.fr/){target=_blank} ;
+- **Lire** les pages de présentation des spécialités [Siences de l'Ingénieur](http://si.lycee.ecmorlaix.fr/){target=_blank} et [Numérique et Siences Informatiques](http://si.lycee.ecmorlaix.fr/nsi){target=_blank}...
 
--->
+
 ***
 
 ## Le 29/03 :

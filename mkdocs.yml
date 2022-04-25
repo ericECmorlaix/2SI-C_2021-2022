@@ -17,13 +17,13 @@ docs_dir: docs
 # Menu de navigation
 nav: 
     - Cahier de texte : index.md    
-    - Fiche d'information : Nom_Prenom-fiche.ipynb    
-    - Ressources :
-      - Les notebook jupyter :
-        - Découverte : decouverte-notebook.ipynb
-        - Markdown : MarkDown-Le_BN_pour_rapporter.ipynb
+    # - Fiche d'information : Nom_Prenom-fiche.ipynb    
+    # - Ressources :
+    #   - Les notebook jupyter :
+    #     - Découverte : decouverte-notebook.ipynb
+    #     - Markdown : MarkDown-Le_BN_pour_rapporter.ipynb
         
-      - La spécialité SI : presentation_SI.md
+    #   - La spécialité SI : presentation_SI.md
 
     # - Quick Pi, Parcours 1 : Quick_Pi-Objets_connectes-Parcours_1.ipynb
     # - Modélisation 3D: modelisation_3D.md
@@ -101,10 +101,11 @@ markdown_extensions: # https://squidfunk.github.io/mkdocs-material/reference/abb
 
 plugins:
   - search # Inclure une barre de recherche
-  - mkdocs-jupyter: # Convertir les fichiers .ipynb et .py en pages du site https://github.com/danielfrg/mkdocs-jupyter
-      kernel_name: python3
-      execute: False
-      include_source: True
+  # - mkdocs-jupyter: # Convertir les fichiers .ipynb et .py en pages du site https://github.com/danielfrg/mkdocs-jupyter
+  #     ignore_h1_titles: True
+  #     kernel_name: python3
+  #     execute: False
+  #     include_source: True
 
 
 extra:

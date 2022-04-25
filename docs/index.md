@@ -124,7 +124,7 @@ BBC micro:bit
 - Groupe [# TEAM-2SI_C-2021/2022](https://teams.microsoft.com/l/team/19%3aW9ZfF3Poy6xVHRFWt4CReSk2Hod8yLdd5o07Z5r_V201%40thread.tacv2/conversations?groupId=554fe4ba-5c0c-4c65-b139-088b5f2274bf&tenantId=3a7994d7-1ce5-426f-a6e3-eee0616e2a6c){target="_blank"} , email [TEAM-2SI_C-20212022@ecmorlaix.fr](mailto:TEAM-2SI_C-20212022@ecmorlaix.fr), sharepoint [TEAM-2SI_C-20212022](https://ecmorlaix.sharepoint.com/sites/TEAM-2SI_C-20212022){target="_blank"} ;
 - Dépot [GitHub](https://github.com/ericECmorlaix/2SI-C_2021-2022){target="_blank"} ; 
 
-#### Prise en main des [notebook jupyter](https://nbviewer.org/github/ericECmorlaix/2SI-C_2021-2022/blob/gh-pages/decouverte-notebook.ipynb) pour communiquer un compte rendu :
+#### Prise en main des [notebook jupyter](https://nbviewer.org/github/ericECmorlaix/2SI-C_2021-2022/blob/gh-pages/decouverte-notebook.ipynb){target=_blank} pour communiquer un compte rendu :
 
 ![work](images/undraw_Work_time_re_hdyv.svg){: .center width=40%}
 
@@ -144,7 +144,7 @@ BBC micro:bit
 
 ![homework](images/undraw_Working_re_ddwy.svg){: .center width=40%}
 
-- **Découvrir** plus avant les fonctionnalités de base des [notebook jupyter](https://nbviewer.org/github/ericECmorlaix/2SI-C_2021-2022/blob/gh-pages/MarkDown-Le_BN_pour_rapporter.ipynb) pour **améliorer** votre fiche d'informations et la **retransmettre** par mail ;
+- **Découvrir** plus avant les fonctionnalités de base des [notebook jupyter](https://nbviewer.org/github/ericECmorlaix/2SI-C_2021-2022/blob/gh-pages/MarkDown-Le_BN_pour_rapporter.ipynb){target=_blank} pour **améliorer** votre fiche d'informations et la **retransmettre** par mail ;
 - **Finir** tous les niveaux de [PYRATES](https://py-rates.fr/){target=_blank} ;
 - **Lire** les pages de présentation des spécialités [Siences de l'Ingénieur](http://si.lycee.ecmorlaix.fr/){target=_blank} et [Numérique et Siences Informatiques](http://si.lycee.ecmorlaix.fr/nsi){target=_blank}...
 

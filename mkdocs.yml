@@ -116,9 +116,9 @@ extra:
     - icon: fontawesome/brands/github
       link: https://github.com/ericECmorlaix/2SI-C_2021-2022
       name: dépôt github
-    - icon: fontawesome/solid/university
-      link: https://www.ecmorlaix.fr/nos-etablissements/lycee-notre-dame-du-mur/
-      name: Lycée Notre Dame du Mur
+    # - icon: fontawesome/solid/university
+    #   link: https://www.ecmorlaix.fr/nos-etablissements/lycee-notre-dame-du-mur/
+    #   name: Lycée Notre Dame du Mur
 
 
 extra_javascript:

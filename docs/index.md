@@ -114,7 +114,8 @@ BBC micro:bit
 - Télécharger puis compléter progressivement le notebook [Quick_Pi-Objets_connectes-Parcours_1.ipynb](./Quick_Pi-Objets_connectes-Parcours_1)​​... 
 
 -->
-## Le 29/03 :
+
+## Le 26/04 :
 
 ### Activités :
 

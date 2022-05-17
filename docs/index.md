@@ -115,6 +115,11 @@ BBC micro:bit
 
 -->
 
+## Le 17/05
+
+- **Programmer** une carte [BBC micro:bit](./bbc_microbit){target=_blank}
+
+
 ## Le 26/04 :
 
 ### Activités :

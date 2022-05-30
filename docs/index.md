@@ -114,6 +114,18 @@ BBC micro:bit
 - Télécharger puis compléter progressivement le notebook [Quick_Pi-Objets_connectes-Parcours_1.ipynb](./Quick_Pi-Objets_connectes-Parcours_1)​​... 
 
 -->
+## Le 31/05 :
+
+### Activités :
+
+- Découverte de la [modélisation 3D](modelisation_3D) avec BlocksCAD et/ou TinkerCAD-CodeBlocks (code de la classe C8K89DHD4Y7K) ;
+
+### Prolongements pour le 07/06 :
+
+- Poursuivre plus avant l'activité de [modélisation 3D](modelisation_3D)...
+
+- Finir tous les niveaux de [PYRATES](https://py-rates.fr/){target="_blank"} ;
+
 
 ## Le 17/05
 

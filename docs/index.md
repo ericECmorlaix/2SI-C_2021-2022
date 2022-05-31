@@ -126,6 +126,8 @@ BBC micro:bit
 
 - Finir tous les niveaux de [PYRATES](https://py-rates.fr/){target="_blank"} ;
 
+- Résoudre le [Casse-Tête](http://isn.si.lycee.ecmorlaix.fr/casseTete/){target="_blank"} en ligne...
+
 
 ## Le 17/05
 

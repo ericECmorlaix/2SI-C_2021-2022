@@ -114,6 +114,16 @@ BBC micro:bit
 - Télécharger puis compléter progressivement le notebook [Quick_Pi-Objets_connectes-Parcours_1.ipynb](./Quick_Pi-Objets_connectes-Parcours_1)​​... 
 
 -->
+## Le 07/06 :
+
+- **Prise en main** de la programmation des Lego Mindstorms EV3 avec l'application : "EV3 Classroom" :
+    1. **Hello !** => expérimenter afin d'expliquer comment fonctionne la communication avec la brique depuis une tablette et depuis un PC...  ;
+    2. **Moteurs et capteurs** => programmer les différents capteurs et moteurs disponibles afin d'expliquer leur fonctionnement... ;
+    3. **Se déplacer** => construire et programmer une base motrice afin d'expliquer le déplacement produit par les différentes instructions... ;
+    4. **Fichier > Nouveau Projet**  =>  créer une nouvelle trame de programmation personnalisée et la partager...
+
+***
+
 ## Le 31/05 :
 
 ### Activités :
